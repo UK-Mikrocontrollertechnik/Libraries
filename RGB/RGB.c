@@ -1,14 +1,14 @@
 /**
 * @file RGB.c
 * @brief LIB to control the RGB-LED on the ZLV-Mint Board
+* @author Kenneth Mathis
+* @version 1.1
 *
 * *******************************
 * Date      Vers.   Name            Comment/Change
 * 17.09.19  1.0     Kenneth Mathis  Created
 * 30.09.19	1.1		Kenneth Mathis	Added PWM Support
 *
-* @author Kenneth Mathis
-* @version 1.1
 */
 
 #include "RGB.h"
