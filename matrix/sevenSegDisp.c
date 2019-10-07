@@ -22,6 +22,7 @@
 //***PROTOTYPES***
 uint8_t numberToBitmask(uint8_t num, uint8_t dotted);
 
+
 void updateSegment(unsigned int segNumber, uint8_t dotPos){
 	static uint8_t segPos;
 	

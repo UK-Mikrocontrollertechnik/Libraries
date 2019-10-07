@@ -22,6 +22,11 @@
     #define segSel0_on (PORTG |= (1<<0))
     #define segSel1_on (PORTG |= (1<<1))
 
+    //0, 0 Seg0
+    //1, 0 Seg1
+    //0, 1 Seg2
+    //1, 1 Seg3
+
     //***PROTOTYPES***
 	/**
 	* @brief Preps the seven segment display and keypad for use.
