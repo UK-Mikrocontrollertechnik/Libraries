@@ -22,6 +22,7 @@
 	typedef struct{
 		 enum tblADC usingADC;
 		 uint16_t adcRaw;
+         float adcReal;
 		 uint8_t isLeftAdjusted;
 		 uint8_t is8BitMode;
 	} adc_t;
