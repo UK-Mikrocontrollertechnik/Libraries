@@ -23,3 +23,19 @@ Not yet existing!
 
 ## RGB
 Library for controlling the RGB-LED on the board.
+
+## lcd
+Library for controlling the lcd on the board.
+
+## uart
+Library for controlling a uart-usb bridge.
+
+## i2c
+Library for controlling the i2c bus. (Needed for RTC)
+
+## rtc
+Library for controlling a DS1307 RTC.
+
+## SSD1306
+Library for controlling a SSD1306 OLED display. (Modified Tinusaur Lib from https://bitbucket.org/tinusaur/ssd1306xled)
+Requires tinyavrlib! (Also Modified from Tinusaur Lib from https://bitbucket.org/tinusaur/tinyavrlib/)
